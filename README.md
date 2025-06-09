@@ -1,6 +1,6 @@
 # 📱 Final Project - Computer Laboratory IV
 
-This is a Flutter mobile app created for the subject **Computer Laboratory IV** in the University Technician in Programming program at UTN. The application simulates a basic records system, consuming data from an API deployed on Render.
+This is a Flutter mobile app created for the subject **Computer Laboratory IV** in the University Technician in Programming program at UTN. The application simulates a basic records system, consuming data from an API deployed on Render implements with Node.js and Express.js.
 
 ## 🚀 Tech Stack
 
